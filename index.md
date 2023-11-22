@@ -4,8 +4,7 @@ keywords: sample homepage
 tags: [getting_started]
 sidebar: mydoc_sidebar
 permalink: index.html
-summary: (NICER CAVES Project 4) This documents efforts for data standardization and digitization of bacterial phenomic and metadata obtained from selected caves in CALABARZON Region, Philippines![image](https://github.com/ph-caves/data/assets/27789129/8d76b12d-0981-4147-bbfb-4b72aef0fb01)
-
+summary: (NICER CAVES Project 4) This documents efforts for data standardization and digitization of bacterial phenomic and metadata obtained from selected caves in CALABARZON Region, Philippines
 ---
 
 {% include note.html content="If you're cloning this theme, you're probably writing documentation of some kind. I have a blog on technical writing here called <a alt='technical writing blog' href='http://idratherbewriting.com'>I'd Rather Be Writing</a>. If you'd like to stay updated with the latest trends, best practices, and other methods for writing documentation, consider <a href='https://tinyletter.com/tomjoht'>subscribing</a>. I also have a site on <a href='http://idratherbewriting.com/learnapidoc'>writing API documentation</a>." %}
