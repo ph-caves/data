@@ -14,8 +14,8 @@ topnav_dropdowns:
   folders:
     - title: Project References
       folderitems:
-        - title: Jekyll Talk
-          external_url: https://talk.jekyllrb.com
+        - title: S4CP Science for Change
+          external_url: https://s4cp.dost.gov.ph/programs/nicer/nicer-projects/
         - title: Jekyll documentation
           external_url: http://jekyllrb.com/docs/home/
         - title: Jekyll on Stack Overflow
