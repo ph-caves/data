@@ -11,7 +11,7 @@ Welcome to the NICER - Niche Centers in the Regions for R&D, Research of Nationa
 
 This site provides documentation, training, and other notes for the NICER CAVES data on caves microbiome. 
 
-## Survey of features
+## Database Modules
 
 Some of the more prominent features of this theme include the following:
 
