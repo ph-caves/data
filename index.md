@@ -7,7 +7,7 @@ permalink: index.html
 summary: A guide for achieving data standardization and digitization of bacterial phenomic and metadata obtained from selected caves in CALABARZON Region, Philippines by NICER CAVES Project 4.
 ---
 
-{% include note.html content="If you're cloning this theme, you're probably writing documentation of some kind. I have a blog on technical writing here called <a alt='technical writing blog' href='http://idratherbewriting.com'>I'd Rather Be Writing</a>. If you'd like to stay updated with the latest trends, best practices, and other methods for writing documentation, consider <a href='https://tinyletter.com/tomjoht'>subscribing</a>. I also have a site on <a href='http://idratherbewriting.com/learnapidoc'>writing API documentation</a>." %}
+{% include note.html content="If you have a cave microbiome dataset and intereested with collaborating with us, please feel free to contact us. Check the [about page][mydoc_about.html]" %}
 
 ## Build the Theme
 
