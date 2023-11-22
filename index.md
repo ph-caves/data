@@ -1,5 +1,5 @@
 ---
-title: "NICER-CAVES Data Management"
+title: "Standardization and digitization of bacterial phenomic and metadata obtained from selected caves in CALABARZON Region, Philippines"
 keywords: sample homepage
 tags: [getting_started]
 sidebar: mydoc_sidebar
