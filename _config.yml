@@ -3,13 +3,13 @@ repository: tomjoht/documentation-theme-jekyll
 output: web
 # this property is useful for conditional filtering of content that is separate from the PDF.
 
-topnav_title: DOST-NICER CAVES Data Management
+topnav_title: DOST S4CP NICER CAVES Data Management
 # this appears on the top navigation bar next to the home button
 
-site_title: DOST-NICER CAVES Data Management
+site_title: DOST S4CP NICER CAVES Data Management
 # this appears in the html browser tab for the site title (seen mostly by search engines, not users)
 
-company_name: Copyright 2023 UPLB - DOST-NICER
+company_name: Copyright 2023 UPLB - DOST -  S4CP - NICER
 # this appears in the footer
 
 github_editme_path: ph-caves/data/blob/gh-pages/
