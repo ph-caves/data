@@ -403,11 +403,11 @@ When you want to insert paragraphs, notes, code snippets, or other matter in bet
 
 See the topics under "Formatting" in the sidebar for more information.
 
-## Automated links
+## Related links
 
 If you want to use an automated system for managing links, see [Automated Links][mydoc_hyperlinks.html#automatedlinks]. This approach automatically creates a list of Markdown references to simplify linking.
 
-## Other instructions
+## Authors
 
 The content here is just a getting started guide only. For other details in working with the theme, see the various sections in the sidebar.
 
