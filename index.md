@@ -4,7 +4,7 @@ keywords: sample homepage
 tags: [getting_started]
 sidebar: mydoc_sidebar
 permalink: index.html
-summary: (NICER CAVES Project #4) This documents efforts for data standardization and digitization of bacterial phenomic and metadata obtained from selected caves in CALABARZON Region, Philippines![image](https://github.com/ph-caves/data/assets/27789129/8d76b12d-0981-4147-bbfb-4b72aef0fb01)
+summary: (NICER CAVES Project 4) This documents efforts for data standardization and digitization of bacterial phenomic and metadata obtained from selected caves in CALABARZON Region, Philippines![image](https://github.com/ph-caves/data/assets/27789129/8d76b12d-0981-4147-bbfb-4b72aef0fb01)
 
 ---
 
