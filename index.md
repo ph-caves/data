@@ -7,7 +7,7 @@ permalink: index.html
 summary: A guide for achieving data standardization and digitization of bacterial phenomic and metadata obtained from selected caves in CALABARZON Region, Philippines by NICER CAVES Project 4.
 ---
 
-{% include note.html content="If you have a cave microbiome dataset and interested with collaborating with us, please feel free to contact us. Check the <a href="mydoc_about.html" alt="about page">about page</a>." %}
+{% include note.html content="If you have a local cave microbiome dataset and interested with collaborating with us, please feel free to contact us. Check the <a href="mydoc_about.html" alt="about page">about page</a>." %}
 
 ## Build the Theme
 
