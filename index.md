@@ -1,10 +1,11 @@
 ---
-title: "Standardization and digitization of bacterial phenomic and metadata obtained from selected caves in CALABARZON Region, Philippines"
+title: "Standardization and digitization of bacterial phenomic and metadata (Project #4)"
 keywords: sample homepage
 tags: [getting_started]
 sidebar: mydoc_sidebar
 permalink: index.html
-summary: These brief instructions will help you get started quickly with the theme. The other topics in this help provide additional information and detail about working with other aspects of this theme and Jekyll.
+summary: Standardization and digitization of bacterial phenomic and metadata obtained from selected caves in CALABARZON Region, Philippines![image](https://github.com/ph-caves/data/assets/27789129/8d76b12d-0981-4147-bbfb-4b72aef0fb01)
+
 ---
 
 {% include note.html content="If you're cloning this theme, you're probably writing documentation of some kind. I have a blog on technical writing here called <a alt='technical writing blog' href='http://idratherbewriting.com'>I'd Rather Be Writing</a>. If you'd like to stay updated with the latest trends, best practices, and other methods for writing documentation, consider <a href='https://tinyletter.com/tomjoht'>subscribing</a>. I also have a site on <a href='http://idratherbewriting.com/learnapidoc'>writing API documentation</a>." %}
